@@ -65,8 +65,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mangel-CC&show_icons=true&theme=github_dark&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangel-CC&layout=compact&theme=github_dark&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com?user=Mangel-CC&theme=github-dark"/>
 </p>
 
 ---
