@@ -8,56 +8,34 @@
 
 # 🚀 Tech Stack
 
-## 🖥️ Frontend
+<p align="center">
 
-<p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css"/>
-</p>
 
----
-
-## 🌍 Multiplatform
-
-<p>
 <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter"/>
 <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart"/>
-</p>
 
----
-
-## ☁️ Backend / Cloud
-
-<p>
 <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql"/>
-</p>
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin"/>
 
----
-
-## ⚙️ DevOps
-
-<p>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/VPS-000000?style=for-the-badge&logo=serverfault"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
-</p>
-
----
-
-## 🎮 Others
-
-<p>
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity"/>
-<img src="https://img.shields.io/badge/Virtual%20Reality-000000?style=for-the-badge&logo=oculus"/>
-<img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender"/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity"/>
+<img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender"/>
+<img src="https://img.shields.io/badge/VR-000000?style=for-the-badge"/>
+
 </p>
 
 ---
